@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("AJjJ9GC9W8UFpB6EWkeaRhfyFCtY8gBRWFM5wuy5scFX");
 
 #[program]
 pub mod consensus_gauge {
